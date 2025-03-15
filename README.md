@@ -17,8 +17,8 @@ API Documentation: Swagger
 Testing: Postman
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/order-system-api.git
-cd order-system-api
+git https://github.com/m7md-amb/RESTfulAPI.git
+cd RESTfulAPI
 
 2️⃣ Install Dependencies
 npm install
