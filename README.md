@@ -22,6 +22,7 @@ git https://github.com/m7md-amb/RESTfulAPI.git
 cd RESTfulAPI
 
 2️⃣ Install Dependencies
+
 npm install
 
 3️⃣ Configure Environment Variables
