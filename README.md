@@ -29,6 +29,7 @@ npm install
 Create a .env file in the root directory and add:
 
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
 
 4️⃣ Start the Server
